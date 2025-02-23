@@ -20,4 +20,4 @@ If you want to use OpenAI ChatGPT, you need to create a file `.env.local` and pr
 
 ---
 
-Check [the Designers Decode Youtube channel](https://www.youtube.com/@designersdecode) for tutorials and [designersdecode.com](https://designersdecode.com/) website for resources.
+I would like to give a credit for DesignersDecode for this inspiring ideas for bringing this creativity project, which based on the sustainability.
