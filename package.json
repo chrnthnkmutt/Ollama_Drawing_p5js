@@ -1,0 +1,19 @@
+{
+  "name": "p5-ollama-image-guess",
+  "version": "1.0.3",
+  "type": "module",
+  "scripts": {
+    "dev": "vite"
+  },
+  "author": {
+    "name": "designers decode"
+  },
+  "devDependencies": {
+    "vite": "^5.4.1"
+  },
+  "dependencies": {
+    "ollama": "^0.5.8",
+    "openai": "^4.56.0",
+    "p5": "^1.10.0"
+  }
+}
