@@ -10,7 +10,7 @@
 ## How to run
 
 1. In Terminal, `cd` into this folder.
-1. Run `npm install` to install the dependencies.
+1. Run `npm install --force` to install the dependencies.
 1. Run `npm run dev` to run the local server and the sketch.
 1. Go to the URL displayed in the Terminal. ie. `http://localhost:5173`.
 
